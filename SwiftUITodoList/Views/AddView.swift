@@ -8,7 +8,6 @@
 import SwiftUI
 
 struct AddView: View {
-    
     @State var textFieldText: String = ""
     
     @State var textFieldColor: Color = Color(#colorLiteral(red: 0.921431005, green: 0.9214526415, blue: 0.9214410186, alpha: 1))
